@@ -17,7 +17,7 @@ Current goals:
 after that the game is basically complete.
 
 Current status: 
-- about 70% complete: The game is playable
+- currently bug fixing
 
 Future goals:
 - adding bosses for each level
